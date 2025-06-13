@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/mesquidar/ForensicsTools/master/FORENSICS%20TOOLS.png)
 
-# Forensics Tool
+# Forensics Tools
 A list of free and open source forensics analysis tools and other resources. 
 
 - [Forensics Tools](#forensics-tools)
@@ -343,7 +343,7 @@ A list of free and open source forensics analysis tools and other resources.
 - [SANS Digital Forensics Posters](https://digital-forensics.sans.org/community/posters) - Digital Forensics Posters from SANS
 - [SANS WhitePapers](https://digital-forensics.sans.org/community/whitepapers) - White Papers written by forensic practitioners seeking GCFA, GCFE, and GREM Gold
 
-## Related Awesome List
+## Related Awesome Lists
 
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [AppSec](https://github.com/paragonie/awesome-appsec)
