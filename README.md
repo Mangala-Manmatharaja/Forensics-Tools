@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/mesquidar/ForensicsTools/master/FORENSICS%20TOOLS.png)
 
-# Forensic To
+# Forensic Too
 
 A list of free and open source forensics analysis tools and other resources. 
 
