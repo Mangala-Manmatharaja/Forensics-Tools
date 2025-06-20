@@ -39,7 +39,7 @@ A list of free and open source forensics analysis tools and other resources.
   - [Other](#other)
 - [Related Awesome Lists](#related-awesome-lists)
 
-## Collecti
+## Collectio
 
 - [DFIR – The definitive compendium project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
 - [DFIR-SQL-Query-Repo](https://github.com/abrignoni/DFIR-SQL-Query-Repo) - Collection of SQL queries templates for digital forensics use by platform and application.
